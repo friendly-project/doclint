@@ -123,6 +123,13 @@ When writing large numbers, such as 1,000,000 or 8,000,000,000, write them as wo
 - "8,000,000,000" becomes "8 billion"
 - However, numbers meant to be specific, such as 1,234,567 should remain as digits to maintain accuracy.
 
+### DOC-EN18: Use digits instead of words for numbers over 9
+
+When writing numbers between 0 and 9, write them as words. For 10 and above, use digits. Numbers below 10 can be misread as letters, such as `1` and `I`.
+
+- "1, 2, 3" is "one, two, three"
+- "twelve, thirteen, fourteen" is "12, 13, 14"
+
 ## Recommendations
 
 While these recommendations are not strict rules, following them can help improve the quality and consistency of documentation:
