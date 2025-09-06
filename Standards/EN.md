@@ -115,7 +115,7 @@ becomes
 > 2. Step 2.1 > step 2.2
 > 3. Step 3.1 > step 3.2 > step 3.3
 
-### DOC-EN17: Use written large numbers
+### DOC-EN17: Use words for large numbers
 
 When writing large numbers, such as 1,000,000 or 8,000,000,000, write them as words.
 
