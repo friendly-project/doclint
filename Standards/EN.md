@@ -1,16 +1,16 @@
-# Documentation standards
+# English documentation standards
 
-[Go back](README.md)
+[Go back](../README.md)
 
 ## Introduction
 
-This document goes over the standards for writing documentation in this project. They'll help ensure that it's clear and consistent.
+This document goes over the standards for writing documentation in English. They'll help ensure that it's clear and consistent.
 
 To make referring to rules easier, they follow this format:
 
 - DOC<rule_number>: \<description>
 
-When removing a rule, the number will be reserved to prevent conflicts and moved to the [obsolete documentation standards](Obsolete/Standards.md).
+When removing a rule, the number will be reserved to prevent conflicts and moved to the [obsolete documentation standards](Obsolete/EN.md).
 
 ## Rules
 

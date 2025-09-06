@@ -10,7 +10,7 @@ This document covers documentation standards that were removed from this project
 
 ### DOC01: Use Markdown
 
-*This rule was removed because it Doclint was originally a set of rules for writing documentation specific to the friendly! project inside GitHub. Since then it's been separated into its own repository to act as a more general-purpose tool for documentation linting. Markdown usage has instead been moved to a new Recommendations section in the [Standards](../Standards.md) document.*
+*This rule was removed because it Doclint was originally a set of rules for writing documentation specific to the friendly! project inside GitHub. Since then it's been separated into its own repository to act as a more general-purpose tool for documentation linting. Markdown usage has instead been moved to a new Recommendations section in the [Standards](../EN.md) document.*
 
 This project uses [Markdown](https://en.wikipedia.org/wiki/Markdown) to format documentation. Markdown is a lightweight markup language that makes it easy to create formatted text using a simple text editor.
 
