@@ -14,14 +14,6 @@ When removing a rule, the number will be reserved to prevent conflicts and moved
 
 ## Rules
 
-### DOC01: Use Markdown
-
-This project uses [Markdown](https://en.wikipedia.org/wiki/Markdown) to format documentation. Markdown is a lightweight markup language that makes it easy to create formatted text using a simple text editor.
-
-It also uses [markdownlint](https://github.com/DavidAnson/markdownlint) by David Anson to make documentation consistent and easy to read.
-
-When referring to markdownlint rules, use the format "MD<rule_number>". A full list of rules can be found in the [markdownlint documentation](https://github.com/DavidAnson/markdownlint/tree/main/doc).
-
 ### DOC02: Use simple language
 
 Use simple, straightforward language to make documentation more accessible.
@@ -41,7 +33,7 @@ Use generic terms instead of specific product names to make documentation more d
 Headings are used to structure content and make it easier to read.
 
 - Use headings to break up content into sections.
-- Use a levels for headings (e.g., H1 or # for the main heading, H2 or ## for main sections, H3 or ### for subsections, etc.).
+- Use a levels for headings (for example, H1 or # for the main heading, H2 or ## for main sections, H3 or ### for subsections, etc.).
 
 ### DOC05: Use sentence case
 
@@ -84,49 +76,8 @@ Inclusive language avoids terms that might be biased or insensitive. It aims to 
 
 "May" can mean permission, while "might" is for when something is possible. To make things easier, don't use "may".
 
-- "You may be able to complete the task" becomes "You might be able to complete the task".
-- "You may not complete the task" becomes "You're not allowed to complete the task".
-
-### DOC11: Use folders as subpages
-
-When organizing documentation, use folders to create subpages for related content. This helps keep the documentation structured and easy to navigate.
-
-The main page should be titled `README.md`. This makes GitHub use it as the default landing page for the folder.
-
-```text
-Project
-Project/Docs
-Project/Docs/README.md
-Project/Docs/Page1.md
-Project/Docs/Page2.md
-Project/Docs/Subfolder
-Project/Docs/Subfolder/README.md
-Project/Docs/Subfolder/Page1.md
-Project/Docs/Subfolder/Page2.md
-...
-```
-
-### DOC12: Include a back link
-
-Always include a back link to the main documentation page at the top of each document, under the main heading.
-
-There's a few ways you can do this:
-
-- For the main README page of a folder:
-
-  ```markdown
-  [Go back](../README.md)
-  ```
-
-  - This navigates back to the parent folder.
-
-- For other pages in the same folder:
-
-  ```markdown
-  [Go back](README.md)
-  ```
-
-  - This navigates back to the main page of the folder.
+- "**You may** be able to complete the task" becomes "**You might** be able to complete the task".
+- "**You may not** complete the task" becomes "**You're not** allowed to complete the task".
 
 ### DOC13: Avoid Latin abbreviations
 
@@ -134,14 +85,14 @@ Use full words, different formatting or reword your sentence instead of using La
 
 - Use "for example" instead of "e.g."
 - Use a colon, comma or em-dash instead of "i.e."
-- "There's many ways you can do this, e.g.:" becomes "There's many ways you can do this, for example:"
+- "There's many ways you can do this, **e.g.**:" becomes "There's many ways you can do this, **for example**:"
 
 ### DOC14: Avoid double sounds in pairs of words
 
 Avoid using pairs of words that create a double sound. They can be confusing or awkward when read out loud.
 
 - Use "there's" instead of "there are"
-- "You can see each file that is stored on the operating system." becomes "You can see every file that's stored on the operating system."
+- "You can **see each** file that is stored on the operating system." becomes "You can **see every** file that's stored on the operating system."
 
 ### DOC15: Write instructions from a user's perspective
 
@@ -150,3 +101,15 @@ When writing instructions for a task that the user can do, use a user's perspect
 - Use "you" instead of "the user."
 - Use "your" instead of "the user's."
 - Don't use "you can" when talking about a system's capabilities.
+
+## Recommendations
+
+While these recommendations are not strict rules, following them can help improve the quality and consistency of documentation:
+
+### Use Markdown
+
+[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language that makes it easy to create formatted text using a simple text editor.
+
+We recommend using [markdownlint](https://github.com/DavidAnson/markdownlint), a tool created by David Anson to make your Markdown documentation consistent and easy to read.
+
+When referring to markdownlint rules, use the format "MD<rule_number>". A full list of rules can be found in the [markdownlint documentation](https://github.com/DavidAnson/markdownlint/tree/main/doc).
