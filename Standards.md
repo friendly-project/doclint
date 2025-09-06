@@ -10,7 +10,7 @@ To make referring to rules easier, they follow this format:
 
 - DOC<rule_number>: \<description>
 
-When removing a rule, the number will be reserved to prevent conflicts and moved to the [obsolete documentation standards](obsolete/standards.md).
+When removing a rule, the number will be reserved to prevent conflicts and moved to the [obsolete documentation standards](Obsolete/Standards.md).
 
 ## Rules
 
