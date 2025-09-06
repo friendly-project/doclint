@@ -115,6 +115,14 @@ becomes
 > 2. Step 2.1 > step 2.2
 > 3. Step 3.1 > step 3.2 > step 3.3
 
+### DOC-EN17: Use words for large numbers
+
+When writing large numbers, such as 1,000,000 or 8,000,000,000, write them as words.
+
+- "1,000,000" becomes "1 million"
+- "8,000,000,000" becomes "8 billion"
+- However, numbers meant to be specific, such as 1,234,567 should remain as digits to maintain accuracy.
+
 ## Recommendations
 
 While these recommendations are not strict rules, following them can help improve the quality and consistency of documentation:
