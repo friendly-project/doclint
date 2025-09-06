@@ -102,6 +102,19 @@ When writing instructions for a task that the user can do, use a user's perspect
 - Use "your" instead of "the user's."
 - Don't use "you can" when talking about a system's capabilities.
 
+### DOC16: Limit minor steps to 3
+
+When providing minor steps or instructions, limit them to a maximum of 3. If more steps are needed, consider breaking them into separate major steps. Having more than 3 minor steps can make instructions harder to follow.
+
+> 1. Step 1.1 > step 1.2 > step 1.3 > step 1.4 > step 1.5
+> 2. Step 2.1 > step 2.2 > step 2.3
+
+becomes
+
+> 1. Step 1.1 > step 1.2 > step 1.3
+> 2. Step 2.1 > step 2.2
+> 3. Step 3.1 > step 3.2 > step 3.3
+
 ## Recommendations
 
 While these recommendations are not strict rules, following them can help improve the quality and consistency of documentation:
