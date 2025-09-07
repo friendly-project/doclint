@@ -1,4 +1,11 @@
-# Doclint
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Frontend/doclint-icon-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="Frontend/doclint-icon-light.svg">
+        <img height="64" alt="A flat image of a book with a broom on the cover" src="Frontend/doclint-icon-light.svg">
+    </picture>
+    Doclint
+</h1>
 
 Doclint is a set of rules for linting documentation files. It helps ensure that documentation is clear, consistent, and follows established standards.
 
