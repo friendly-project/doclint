@@ -51,7 +51,7 @@ When removing a rule, the number will be reserved to prevent conflicts and moved
 
 ### DOC-EN07
 
-**Use the Oxford comma**, the final comma in a list of 3 or more items, placed before "and" or "or".
+**Use the Oxford comma**, the final comma in a list of three or more items, placed before "and" or "or".
 
 - Use "apples, oranges, and bananas" instead of "apples, oranges and bananas"
 - But "apples and bananas" is correct.
@@ -104,7 +104,7 @@ When removing a rule, the number will be reserved to prevent conflicts and moved
 
 ### DOC-EN16
 
-**Limit minor steps or instructions to a maximum of 3.** If more steps are needed, consider breaking them into separate major steps. Having more than 3 minor steps can make instructions harder to follow.
+**Limit minor steps or instructions to a maximum of three.** If more steps are needed, consider breaking them into separate major steps. Having more than three minor steps can make instructions harder to follow.
 
 > 1. Step 1.1 > step 1.2 > step 1.3 > step 1.4 > step 1.5
 > 2. Step 2.1 > step 2.2 > step 2.3
@@ -125,7 +125,7 @@ becomes
 
 ### DOC-EN18
 
-**Use digits instead of words for numbers over 9.** For 10 and above, use digits. Numbers below 10 can be misread as letters, such as `1` and `I`.
+**Use digits instead of words for numbers over nine.** For 10 and above, use digits. Numbers below 10 can be misread as letters, such as `1` and `I`.
 
 - "1, 2, 3" is "one, two, three"
 - "twelve, thirteen, fourteen" is "12, 13, 14"
