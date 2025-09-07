@@ -24,3 +24,7 @@ If you'd like to contribute to Doclint, please follow these steps:
 1. **Fork the repository**: Create a personal copy of the repository on GitHub.
 2. **Make changes**: Implement your changes in your forked repository.
 3. **Submit a pull request**: Propose your changes to the original repository by submitting a pull request.
+
+## [Attribution](https://github.com/friendly-project/docs/blob/main/Docs/Attribution.md)
+
+This project makes use of various open-source resources and inspirations. A full list of these resources can be found in the friendly! project's [Attribution document](https://github.com/friendly-project/docs/blob/main/Docs/Attribution.md).
