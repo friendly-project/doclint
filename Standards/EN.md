@@ -125,7 +125,7 @@ becomes
 
 ### DOC-EN18
 
-**Use digits instead of words for numbers over nine.** For 10 and above, use digits. Numbers below 10 can be misread as letters, such as `1` and `I`.
+**Use words instead of digits for numbers under 10.** For 10 and above, use digits. Digits below 10 can be misread as letters, such as `1` and `I`.
 
 - "1, 2, 3" is "one, two, three"
 - "twelve, thirteen, fourteen" is "12, 13, 14"
