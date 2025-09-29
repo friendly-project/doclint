@@ -130,6 +130,13 @@ becomes
 - "1, 2, 3" is "one, two, three"
 - "twelve, thirteen, fourteen" is "12, 13, 14"
 
+### DOC-EN19
+
+**Explain acronyms and abbreviations on first use.** However, don't do this for common terms used in everyday life.
+
+- "POC" is "point-of-contact (POC)" on first use, then use "POC" after
+- Common terms like Graphics Interchange Format (GIF) should just be GIF
+
 ## Recommendations
 
 While these recommendations are not strict rules, following them can help improve the quality and consistency of documentation:
