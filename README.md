@@ -7,15 +7,13 @@
     Doclint
 </h1>
 
-Doclint is a set of rules for linting documentation files. It helps ensure that documentation is clear, consistent, and follows established standards.
-
-This is part of the [friendly! project](https://github.com/friendly-project), aimed at creating a user-friendly and intuitive interface for all users, across various platforms, displays and input methods.
+Doclint is a set of standards for writing documentation in user-friendly ways. These standards are based largely on the experience of professional writers in technical environments, journalism, and governments. Because of this, the standards set out in Doclint can largely be applied in other areas of writing too.
 
 ## Getting started
 
-To get started with Doclint, take some time to read through the [documentation standards](Standards/README.md) for your target language to understand the guidelines.
+At the moment, Doclint is only a set of written standards, without any automated [linting](https://en.wikipedia.org/wiki/Lint_(software)) capabilities. Until then, take some time to read through the [documentation standards](Standards/README.md) for your target language.
 
-Currently, only [English (EN)](Standards/EN.md) is supported.
+Currently, only [English (EN)](Standards/EN.md) is supported. To track implementation of your target language, see https://github.com/friendly-project/doclint/issues/34.
 
 ## Contributing
 
@@ -24,3 +22,5 @@ If you want to contribute to Doclint, read the [contribution guidelines](.github
 ## [Attribution](https://github.com/friendly-project/docs/blob/main/Docs/Attribution.md)
 
 This project makes use of various open-source resources and inspirations. A full list of these resources can be found in the friendly! project's [Attribution document](https://github.com/friendly-project/docs/blob/main/Docs/Attribution.md).
+
+This is part of the [friendly! project](https://github.com/friendly-project).
